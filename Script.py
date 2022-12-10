@@ -32,13 +32,13 @@ This methord works on any chat, Just type @lucascinemahubbot and then leave a sp
 
 ○ Notice 📙:-
 
-○Dont Spam Me...🤒
+○Dsont Spam Me...🤒
 
 😎 Powered by @CINEMAHUB_NEW_MOVIES
 
 ©️ Maintained By @sovel_jaison"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/CINEMAHUB_NEW_MOVIES>ᴀᴍ_ᴛᴇᴄʜ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sovel_jaison>ᴀᴍ_ᴛᴇᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -49,7 +49,7 @@ This methord works on any chat, Just type @lucascinemahubbot and then leave a sp
 - Source - Not_Available 
 
 <b>DEVS:</b>
-- <a href=https://t.me/sovel_jaison>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/sovel_jaison>sᴏᴠᴇʟ_ᴊᴀɪsᴏɴ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
